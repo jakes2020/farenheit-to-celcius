@@ -1,0 +1,91 @@
+var f = 20;
+
+var m = 32;
+
+var i = 5;
+
+var t = 1.8;
+
+
+var c1 = (f - m) / t;
+
+console.log(f,c1);
+
+
+var f2 = (f + i);
+
+var c2 = (f2 - m) / t;
+
+console.log(f2,c2)
+
+
+var f3 = (f2 + i);
+
+var c3 = (f3 - m) / t;
+
+console.log(f3,c3)
+
+
+var f4 = (f3 + i);
+
+var c4 = (f4 - m) / t;
+
+console.log(f4,c4)
+
+
+var f5 = (f4 + i);
+
+var c5 = (f5 - m) / t;
+
+console.log(f5,c5)
+
+
+var f6 = (f5 + i);
+
+var c6 = (f6 - m) / t;
+
+console.log(f6,c6)
+
+
+var f7 = (f6 + i);
+
+var c7 = (f7 - m) / t;
+
+console.log(f7,c7)
+
+
+var f7 = (f6 + i);
+
+var c7 = (f7 - m) / t;
+
+console.log(f7,c7)
+
+
+
+var f8 = (f7 + i);
+
+var c8 = (f8 - m) / t;
+
+console.log(f8,c8)
+
+
+var f9 = (f8 + i);
+
+var c9 = (f9 - m) / t;
+
+console.log(f9,c9)
+
+
+
+var f10 = (f9 + i);
+
+var c10 = (f10 - m) / t;
+
+console.log(f10,c10)
+
+
+
+
+
+
+
